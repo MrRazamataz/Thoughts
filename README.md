@@ -13,4 +13,7 @@ This is a page where I upload random thoughts about stuff that annoys me or what
   Conclusion:  
   You dont have to pay for help with something you have control over (your weight), but you do have to pay for help with your eyesight, which is something you mostly not control. Seems scuffed, right?  
   
+* Insane amounts of crap on spigotmc  
+  On spigotmc resources (minecraft server plugin download site), there are 100s of plugins that all do the same thing. A common exmaple of this is a "fly plugin" with a /fly command.  WHY, why do people feel the need to make and upload these useless plugins?  
   
+* 
